@@ -1,0 +1,10 @@
+d:\mydoc\visual studio 2010\Projects\WindowsFormsrchecktomcat\WindowsFormsrchecktomcat\bin\Release\WindowsFormsrchecktomcat.exe
+d:\mydoc\visual studio 2010\Projects\WindowsFormsrchecktomcat\WindowsFormsrchecktomcat\bin\Release\WindowsFormsrchecktomcat.pdb
+d:\mydoc\visual studio 2010\Projects\WindowsFormsrchecktomcat\WindowsFormsrchecktomcat\obj\x86\Release\ResolveAssemblyReference.cache
+d:\mydoc\visual studio 2010\Projects\WindowsFormsrchecktomcat\WindowsFormsrchecktomcat\obj\x86\Release\WindowsFormsrchecktomcat.Form1.resources
+d:\mydoc\visual studio 2010\Projects\WindowsFormsrchecktomcat\WindowsFormsrchecktomcat\obj\x86\Release\WindowsFormsrchecktomcat.Properties.Resources.resources
+d:\mydoc\visual studio 2010\Projects\WindowsFormsrchecktomcat\WindowsFormsrchecktomcat\obj\x86\Release\GenerateResource.read.1.tlog
+d:\mydoc\visual studio 2010\Projects\WindowsFormsrchecktomcat\WindowsFormsrchecktomcat\obj\x86\Release\GenerateResource.write.1.tlog
+d:\mydoc\visual studio 2010\Projects\WindowsFormsrchecktomcat\WindowsFormsrchecktomcat\obj\x86\Release\WindowsFormsrchecktomcat.exe
+d:\mydoc\visual studio 2010\Projects\WindowsFormsrchecktomcat\WindowsFormsrchecktomcat\obj\x86\Release\WindowsFormsrchecktomcat.pdb
+D:\mydoc\Visual Studio 2010\Projects\WindowsFormsrchecktomcat\WindowsFormsrchecktomcat\bin\Release\WindowsFormsrchecktomcat.exe.config
