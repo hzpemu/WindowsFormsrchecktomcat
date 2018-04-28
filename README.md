@@ -1,2 +1,2 @@
-WindowsFormsrchecktomcat  是一个能通过检测TOMCAT对计算机进程关于内存的使用情况来判断TOMCAT是否无响应而自动重启TOMCAT的软件，为你对TOMCAT的不稳定烦恼有所减轻，但建议你有条件可以转用RESIN.
-Windowsformsrchecktomcat is a software that automatically restarts Tomcat by detecting Tomcat's use of the computer's memory to determine if Tomcat is unresponsive, and reduces the instability of Tomcat, But I suggest you have the conditions to switch to resin.
+WindowsFormsrchecktomcat  是一个能通过检测TOMCAT进程对计算机内存的使用情况来判断TOMCAT是否无响应而自动重启TOMCAT的软件，为你对TOMCAT的不稳定烦恼有所减轻，但建议你有条件可以转用RESIN.
+Windowsformsrchecktomcat is a software that automatically restarts Tomcat by checking Tomcat's use of the system memory to determine if Tomcat is no Response, and reduces the instability of Tomcat, But I suggest you have the conditions to switch to resin.
