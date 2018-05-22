@@ -1,2 +1,10 @@
-WindowsFormsrchecktomcat  ÊÇÒ»¸öÄÜÍ¨¹ı¼ì²âTOMCAT½ø³Ì¶Ô¼ÆËã»úÄÚ´æµÄÊ¹ÓÃÇé¿öÀ´ÅĞ¶ÏTOMCATÊÇ·ñÎŞÏìÓ¦¶ø×Ô¶¯ÖØÆôTOMCATµÄÈí¼ş£¬ÎªÄã¶ÔTOMCATµÄ²»ÎÈ¶¨·³ÄÕÓĞËù¼õÇá£¬µ«½¨ÒéÄãÓĞÌõ¼ş¿ÉÒÔ×ªÓÃRESIN.
+WindowsFormsrchecktomcat  æ˜¯ä¸€ä¸ªèƒ½é€šè¿‡æ£€æµ‹TOMCATè¿›ç¨‹å¯¹è®¡ç®—æœºå†…å­˜çš„ä½¿ç”¨æƒ…å†µæ¥åˆ¤æ–­TOMCATæ˜¯å¦æ— å“åº”è€Œè‡ªåŠ¨é‡å¯TOMCATçš„è½¯ä»¶ï¼Œä¸ºä½ å¯¹TOMCATçš„ä¸ç¨³å®šçƒ¦æ¼æœ‰æ‰€å‡è½»ï¼Œä½†å»ºè®®ä½ æœ‰æ¡ä»¶å¯ä»¥è½¬ç”¨RESIN.
 Windowsformsrchecktomcat is a software that automatically restarts Tomcat by checking Tomcat's use of the system memory to determine if Tomcat is no Response, and reduces the instability of Tomcat, But I suggest you have the conditions to switch to resin.
+
+
+
+äººäººä¸ºæˆ‘ï¼Œæˆ‘ä¸ºäººäººï¼Œè¯·å¤§å®¶ç§¯æå¼€æºã€‚
+å¦‚æœä½ è§‰å¾—æˆ‘çš„ä½œå“å¯¹ä½ æœ‰å¸®åŠ©ï¼Œå¯ä»¥é€šè¿‡æ”¯ä»˜å®æ‰«ç æ”¯æŒæˆ‘ï¼Œè°¢è°¢ï¼
+if my code helpful for you ,maybe scan below Qr code through the Alipay support me, thanks!
+
+![Image text](https://firebasestorage.googleapis.com/v0/b/testfirebase-a517c.appspot.com/o/alipay%E6%94%B6%E6%AC%BE%E7%A0%81mini.png?alt=media&token=2f247a5e-547f-4c73-8658-f9f35de9692c)
